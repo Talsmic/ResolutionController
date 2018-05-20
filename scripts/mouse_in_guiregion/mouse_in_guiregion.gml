@@ -1,5 +1,5 @@
 ///mouse_in_guiregion(region);
-/// @arg region {array|integers} [x1,y1,x2,y2,width,height];
+/// @arg region {array|integers} [x1,y1,x2,y2];
 /*
 	>Returns {Boolean}
 */
