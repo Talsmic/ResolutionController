@@ -1,0 +1,1 @@
+global.GUI_Drawing = true;
